@@ -22,5 +22,5 @@ Obtiene la lista de usuarios registrados.
 Elimina todos los usuario registrados.
 
 ## Validaciones
+- **Email único**: No permite emails duplicados 
 - **ID único**: No permite IDs duplicados
-- **Email único**: No permite emails duplicados (case insensitive)
